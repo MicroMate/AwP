@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/558/trunk/ch07/MyMoviesDatabase/src/com/manning/aip/mymoviesdatabase
+END
+MovieAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/346/trunk/ch07/MyMoviesDatabase/src/com/manning/aip/mymoviesdatabase/MovieAdapter.java
+END
+Preferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/325/trunk/ch07/MyMoviesDatabase/src/com/manning/aip/mymoviesdatabase/Preferences.java
+END
+DownloadListViewTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/347/trunk/ch07/MyMoviesDatabase/src/com/manning/aip/mymoviesdatabase/DownloadListViewTask.java
+END
+MovieDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/285/trunk/ch07/MyMoviesDatabase/src/com/manning/aip/mymoviesdatabase/MovieDetail.java
+END
+MovieSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/341/trunk/ch07/MyMoviesDatabase/src/com/manning/aip/mymoviesdatabase/MovieSearch.java
+END
+MyMovies.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/554/trunk/ch07/MyMoviesDatabase/src/com/manning/aip/mymoviesdatabase/MyMovies.java
+END
+CategoryManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/285/trunk/ch07/MyMoviesDatabase/src/com/manning/aip/mymoviesdatabase/CategoryManager.java
+END
+MyMoviesApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/339/trunk/ch07/MyMoviesDatabase/src/com/manning/aip/mymoviesdatabase/MyMoviesApp.java
+END
+DownloadTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/285/trunk/ch07/MyMoviesDatabase/src/com/manning/aip/mymoviesdatabase/DownloadTask.java
+END
+SplashScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/325/trunk/ch07/MyMoviesDatabase/src/com/manning/aip/mymoviesdatabase/SplashScreen.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/285/trunk/ch07/MyMoviesDatabase/src/com/manning/aip/mymoviesdatabase/Constants.java
+END
+MovieCursorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/345/trunk/ch07/MyMoviesDatabase/src/com/manning/aip/mymoviesdatabase/MovieCursorAdapter.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/464/trunk/ch07/MyMoviesDatabase/res/drawable
+END
+button_small_unselected.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/320/trunk/ch07/MyMoviesDatabase/res/drawable/button_small_unselected.png
+END
+film_bg.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/243/trunk/ch07/MyMoviesDatabase/res/drawable/film_bg.png
+END
+button_small.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/320/trunk/ch07/MyMoviesDatabase/res/drawable/button_small.xml
+END
+list_selector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/464/trunk/ch07/MyMoviesDatabase/res/drawable/list_selector.xml
+END
+title.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/320/trunk/ch07/MyMoviesDatabase/res/drawable/title.9.png
+END
+list_item_default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/250/trunk/ch07/MyMoviesDatabase/res/drawable/list_item_default.xml
+END
+splash.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/243/trunk/ch07/MyMoviesDatabase/res/drawable/splash.png
+END
+list_item_pressed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/250/trunk/ch07/MyMoviesDatabase/res/drawable/list_item_pressed.xml
+END
+button_small_selected.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/320/trunk/ch07/MyMoviesDatabase/res/drawable/button_small_selected.png
+END

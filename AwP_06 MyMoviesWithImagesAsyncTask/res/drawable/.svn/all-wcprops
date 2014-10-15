@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/462/trunk/ch06/MyMoviesWithImagesAsyncTask/res/drawable
+END
+film_bg.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/198/trunk/ch06/MyMoviesWithImagesAsyncTask/res/drawable/film_bg.png
+END
+list_selector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/462/trunk/ch06/MyMoviesWithImagesAsyncTask/res/drawable/list_selector.xml
+END
+title.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/198/trunk/ch06/MyMoviesWithImagesAsyncTask/res/drawable/title.9.png
+END
+list_item_default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/198/trunk/ch06/MyMoviesWithImagesAsyncTask/res/drawable/list_item_default.xml
+END
+list_item_pressed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/198/trunk/ch06/MyMoviesWithImagesAsyncTask/res/drawable/list_item_pressed.xml
+END

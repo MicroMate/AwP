@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/353/trunk/ch13/DealDroidRobotiumTest
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/353/trunk/ch13/DealDroidRobotiumTest/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/353/trunk/ch13/DealDroidRobotiumTest/.classpath
+END
+robotium-solo-2.0.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/313/trunk/ch13/DealDroidRobotiumTest/robotium-solo-2.0.2.jar
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/313/trunk/ch13/DealDroidRobotiumTest/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/313/trunk/ch13/DealDroidRobotiumTest/AndroidManifest.xml
+END

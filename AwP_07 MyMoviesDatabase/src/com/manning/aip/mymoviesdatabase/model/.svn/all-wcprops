@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/285/trunk/ch07/MyMoviesDatabase/src/com/manning/aip/mymoviesdatabase/model
+END
+Movie.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/285/trunk/ch07/MyMoviesDatabase/src/com/manning/aip/mymoviesdatabase/model/Movie.java
+END
+MovieSearchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/285/trunk/ch07/MyMoviesDatabase/src/com/manning/aip/mymoviesdatabase/model/MovieSearchResult.java
+END
+ModelBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/285/trunk/ch07/MyMoviesDatabase/src/com/manning/aip/mymoviesdatabase/model/ModelBase.java
+END
+Category.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/285/trunk/ch07/MyMoviesDatabase/src/com/manning/aip/mymoviesdatabase/model/Category.java
+END

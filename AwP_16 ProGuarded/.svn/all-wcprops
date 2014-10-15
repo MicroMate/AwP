@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/581/trunk/appendices/ProGuarded
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/580/trunk/appendices/ProGuarded/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/580/trunk/appendices/ProGuarded/.classpath
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/580/trunk/appendices/ProGuarded/proguard.cfg
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/580/trunk/appendices/ProGuarded/.project
+END
+KEYSTORE_PASSWORD.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/580/trunk/appendices/ProGuarded/KEYSTORE_PASSWORD.txt
+END
+local.properties
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/580/trunk/appendices/ProGuarded/local.properties
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/580/trunk/appendices/ProGuarded/AndroidManifest.xml
+END
+proguard.keystore
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/580/trunk/appendices/ProGuarded/proguard.keystore
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/580/trunk/appendices/ProGuarded/build.xml
+END

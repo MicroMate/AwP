@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/533/trunk/ch05/StockPortfolio/src/com/manning/aip/portfolio
+END
+AlarmReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/171/trunk/ch05/StockPortfolio/src/com/manning/aip/portfolio/AlarmReceiver.java
+END
+ViewStocks.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/359/trunk/ch05/StockPortfolio/src/com/manning/aip/portfolio/ViewStocks.java
+END
+Stock.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/359/trunk/ch05/StockPortfolio/src/com/manning/aip/portfolio/Stock.java
+END
+PushReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/207/trunk/ch05/StockPortfolio/src/com/manning/aip/portfolio/PushReceiver.java
+END
+PortfolioStartupReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/171/trunk/ch05/StockPortfolio/src/com/manning/aip/portfolio/PortfolioStartupReceiver.java
+END
+PortfolioManagerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/359/trunk/ch05/StockPortfolio/src/com/manning/aip/portfolio/PortfolioManagerService.java
+END
+SendC2dmRegistrationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/207/trunk/ch05/StockPortfolio/src/com/manning/aip/portfolio/SendC2dmRegistrationService.java
+END
+Stock.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/171/trunk/ch05/StockPortfolio/src/com/manning/aip/portfolio/Stock.aidl
+END
+NotificationDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/171/trunk/ch05/StockPortfolio/src/com/manning/aip/portfolio/NotificationDetails.java
+END
+StocksDb.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/359/trunk/ch05/StockPortfolio/src/com/manning/aip/portfolio/StocksDb.java
+END
+AddStockService.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/533/trunk/ch05/StockPortfolio/src/com/manning/aip/portfolio/AddStockService.java
+END

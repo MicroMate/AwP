@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/285/trunk/ch07/MyMoviesDatabase/src/com/manning/aip/mymoviesdatabase/xml
+END
+MovieFeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/285/trunk/ch07/MyMoviesDatabase/src/com/manning/aip/mymoviesdatabase/xml/MovieFeed.java
+END
+TheMovieDBXmlPullFeedParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/285/trunk/ch07/MyMoviesDatabase/src/com/manning/aip/mymoviesdatabase/xml/TheMovieDBXmlPullFeedParser.java
+END

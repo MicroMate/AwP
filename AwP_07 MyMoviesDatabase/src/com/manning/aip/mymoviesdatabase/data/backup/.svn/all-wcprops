@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/285/trunk/ch07/MyMoviesDatabase/src/com/manning/aip/mymoviesdatabase/data/backup
+END
+BackupManagerWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/285/trunk/ch07/MyMoviesDatabase/src/com/manning/aip/mymoviesdatabase/data/backup/BackupManagerWrapper.java
+END
+BackupAgent.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/285/trunk/ch07/MyMoviesDatabase/src/com/manning/aip/mymoviesdatabase/data/backup/BackupAgent.java
+END
